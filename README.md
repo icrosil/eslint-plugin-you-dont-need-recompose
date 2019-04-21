@@ -9,6 +9,7 @@ Eslint rules to avoid parts of recompose lib
 - 'no' rule for every api in recompose
 - 'recommended' to not use only state API
 - 'acdlite' to avoid all recompose
+- fixable?
 
 ### Imports
 
