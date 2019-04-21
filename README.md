@@ -24,3 +24,8 @@ Eslint rules to avoid parts of recompose lib
 ### TODO:
 
 - [eslint](https://eslint.org/docs/developer-guide/working-with-rules)
+- Fill Readme - why, how to use it
+- add jest, coveralls, test:perf, travis and deploy and all of that
+- npm package add more keywords
+- `you-dont-need-recompose/no-import-withState` maybe too long for an rule name
+- `Prefer to use hook 'useState'` should be more mnemonic
