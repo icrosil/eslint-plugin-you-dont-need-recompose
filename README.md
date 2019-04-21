@@ -14,9 +14,8 @@ Eslint rules to avoid parts of recompose lib
 
 ### Imports
 
-- should work with `import func from 'recompose/func'`
-- should work with `import { func } from 'recompose'`
-- should work with babel/webpack aliases if possible
+- should work with `import func from 'recompose/func'` +
+- should work with `import { func } from 'recompose'` +
 - should work with dynamic import
 - should work with require
 - should fail on usage of this methods
@@ -30,3 +29,4 @@ Eslint rules to avoid parts of recompose lib
 - `you-dont-need-recompose/no-import-withState` maybe too long for an rule name
 - `Prefer to use hook 'useState'` should be more mnemonic
 - eslint peer dependency to be as lower as possible or 5.x.x
+- add min node version
