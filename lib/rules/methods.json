@@ -1,0 +1,5 @@
+{
+  "withState": {
+    "message": "Prefer to use hook 'useState'"
+  }
+}
