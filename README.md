@@ -30,3 +30,4 @@ Eslint rules to avoid parts of recompose lib
 - `Prefer to use hook 'useState'` should be more mnemonic
 - eslint peer dependency to be as lower as possible or 5.x.x
 - add min node version
+- maybe put eslint files next to rules as units
