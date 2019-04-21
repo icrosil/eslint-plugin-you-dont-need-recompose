@@ -2,17 +2,30 @@
   "name": "eslint-plugin-you-dont-need-recompose",
   "version": "0.0.0",
   "description": "Eslint plugin to help avoid part of recompose in hooks favor",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "git@github.com:icrosil/eslint-plugin-you-dont-need-recompose.git",
   "author": "Illia Olenchenko <icrosil@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node ./lib/index.js",
+    "test": "jest ./"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-prettier": "^3.0.1",
+    "jest": "^24.7.1",
     "prettier": "^1.17.0"
+  },
+  "dependencies": {
+    "required-parameter": "^1.0.0"
   }
 }
