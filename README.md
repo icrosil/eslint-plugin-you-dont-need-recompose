@@ -29,3 +29,4 @@ Eslint rules to avoid parts of recompose lib
 - npm package add more keywords
 - `you-dont-need-recompose/no-import-withState` maybe too long for an rule name
 - `Prefer to use hook 'useState'` should be more mnemonic
+- eslint peer dependency to be as lower as possible or 5.x.x
