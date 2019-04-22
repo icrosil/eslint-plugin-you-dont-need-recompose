@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-you-dont-need-recompose",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Eslint plugin to help avoid part of recompose in hooks favor",
   "main": "lib/index.js",
   "repository": "git@github.com:icrosil/eslint-plugin-you-dont-need-recompose.git",
