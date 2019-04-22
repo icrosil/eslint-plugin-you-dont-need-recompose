@@ -12,7 +12,8 @@
     "test": "jest ./"
   },
   "files": [
-    "lib",
+    "lib/rules",
+    "lib/index.js",
     "README.md",
     "LICENSE"
   ],
