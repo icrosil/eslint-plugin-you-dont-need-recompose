@@ -6,7 +6,7 @@ Eslint rules to avoid parts of recompose lib
 
 ### General
 
-- 'no' rule for every api in recompose
+- 'no' rule for every api in recompose +
 - 'recommended' to not use only state API
 - 'acdlite' to avoid all recompose
 - fixable?
@@ -32,4 +32,4 @@ Eslint rules to avoid parts of recompose lib
 - add min node version
 - maybe put eslint files next to rules as units
 - renaming should also work import {withState as onState} from 'recompose' also with require
-- add links to more mnemonic description about rules
+- add links to more mnemonic description about rules + links to React docs
