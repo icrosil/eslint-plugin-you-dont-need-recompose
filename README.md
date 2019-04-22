@@ -16,7 +16,7 @@ Eslint rules to avoid parts of recompose lib
 
 - should work with `import func from 'recompose/func'` +
 - should work with `import { func } from 'recompose'` +
-- should work with dynamic import
+- should work with dynamic import +
 - should work with require
 - should fail on usage of this methods
 
@@ -31,3 +31,4 @@ Eslint rules to avoid parts of recompose lib
 - eslint peer dependency to be as lower as possible or 5.x.x
 - add min node version
 - maybe put eslint files next to rules as units
+- renaming should also work import {withState as onState} from 'recompose' also with require
