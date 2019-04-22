@@ -23,6 +23,7 @@ Eslint rules to avoid parts of recompose lib
 ### TODO:
 
 - [eslint](https://eslint.org/docs/developer-guide/working-with-rules)
+- [react](https://reactjs.org/docs/hooks-faq.html#do-hooks-replace-render-props-and-higher-order-components)
 - Fill Readme - why, how to use it
 - add jest, coveralls, test:perf, travis and deploy and all of that
 - npm package add more keywords

@@ -11,6 +11,11 @@
     "start": "node ./lib/index.js",
     "test": "jest ./"
   },
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ],
   "keywords": [
     "eslint",
     "eslintplugin",
