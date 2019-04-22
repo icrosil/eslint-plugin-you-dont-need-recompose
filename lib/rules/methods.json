@@ -1,4 +1,10 @@
 {
+  "mapProps": {
+    "message": "no map props"
+  },
+  "withProps": {
+    "message": "no with props"
+  },
   "withState": {
     "message": "Prefer to use hook 'useState'"
   }
