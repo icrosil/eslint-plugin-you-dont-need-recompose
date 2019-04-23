@@ -1,6 +1,7 @@
 # eslint-plugin-you-dont-need-recompose
 
 Eslint rules to avoid parts of recompose lib
+
 [![Build Status](https://travis-ci.org/icrosil/eslint-plugin-you-dont-need-recompose.svg?branch=master)](https://travis-ci.org/icrosil/eslint-plugin-you-dont-need-recompose)  [![Coverage Status](https://coveralls.io/repos/github/icrosil/eslint-plugin-you-dont-need-recompose/badge.svg?branch=master)](https://coveralls.io/github/icrosil/eslint-plugin-you-dont-need-recompose?branch=master)  [![Maintainability](https://api.codeclimate.com/v1/badges/6fe830dc12447fa3922b/maintainability)](https://codeclimate.com/github/icrosil/eslint-plugin-you-dont-need-recompose/maintainability)  [![Version](https://img.shields.io/npm/v/eslint-plugin-you-dont-need-recompose.svg)](https://www.npmjs.com/package/eslint-plugin-you-dont-need-recompose) [![dependencies Status](https://david-dm.org/icrosil/eslint-plugin-you-dont-need-recompose/status.svg)](https://david-dm.org/icrosil/eslint-plugin-you-dont-need-recompose) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ## WIP

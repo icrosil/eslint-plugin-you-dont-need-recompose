@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-you-dont-need-recompose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint plugin to help avoid part of recompose in hooks favor",
   "main": "lib/index.js",
   "repository": "git@github.com:icrosil/eslint-plugin-you-dont-need-recompose.git",
@@ -10,6 +10,7 @@
   "scripts": {
     "start": "node ./lib/index.js",
     "test": "jest ./",
+    "test:ci": "jest ./ --coverage",
     "deps": "yarn outdated",
     "lint": "yarn eslint ./",
     "coveralls": "coveralls < coverage/lcov.info"
