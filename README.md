@@ -32,9 +32,9 @@ Eslint rules to avoid parts of recompose lib
 - add links to more mnemonic description about rules + links to React docs +
 - eslint support url +
 - TODO fix +
-- perf
-- optimize rules
-- maybe put eslint files next to rules as units
+- perf +
+- optimize rules -
+- maybe put eslint files next to rules as units -
 - add jest, coveralls, test:perf, travis and deploy and all of that
 - npm package add more keywords
 - Fill Readme - why, how to use it
