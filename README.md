@@ -31,7 +31,7 @@ Eslint rules to avoid parts of recompose lib
 - renaming should also work import {withState as onState} from 'recompose' also with require +
 - add links to more mnemonic description about rules + links to React docs +
 - eslint support url +
-- TODO fix
+- TODO fix +
 - perf
 - optimize rules
 - maybe put eslint files next to rules as units
