@@ -28,12 +28,13 @@ Eslint rules to avoid parts of recompose lib
 - `Prefer to use hook 'useState'` should be more mnemonic -
 - eslint peer dependency to be as lower as possible or 5.3.0 +
 - add min node version +
-- maybe put eslint files next to rules as units
 - renaming should also work import {withState as onState} from 'recompose' also with require
 - add links to more mnemonic description about rules + links to React docs
 - eslint support url +
 - TODO fix
 - perf
+- optimize rules
+- maybe put eslint files next to rules as units
 - add jest, coveralls, test:perf, travis and deploy and all of that
 - npm package add more keywords
 - Fill Readme - why, how to use it
