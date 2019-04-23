@@ -29,14 +29,18 @@ Update your eslint config
 ## You don't need recompose
 
 If you are starting a brand new project it is totally fine to avoid adding recompose in the first place.
+
 Hooks providing an alternative way of managing major part of problems recompose solved.
+
 So, no recompose - no problem. More details [here](https://github.com/acdlite/recompose/issues/756#issuecomment-438674573) and on [recompose page](https://github.com/acdlite/recompose#a-note-from-the-author-acdlite-oct-25-2018).
 
 ## `Unpopular` opinion
 
 What if you already have some app with recompose and that's fine till your all new code comes with hooks? Maybe you'd still like to use HOCs and hooks together but to avoid some parts of recompose.
+
 This eslint plugin could help you.
 The plugin provides a rule for each recompose method. So you can set each method with any level of warning.
+
 Most likely you'd like to use one of presets: `recommended` or `acdlite`.
 
 ### recommended
